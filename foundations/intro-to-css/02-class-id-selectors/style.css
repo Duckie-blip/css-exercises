@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.odd {
+    font-style: Vera;
+}
+
+.dejavu {
+    font-size: 24px
+}
+
+.four {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.two {
+    color: blue;
+    font-size: 36px;
+}
